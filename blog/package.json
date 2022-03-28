@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoannk310/node_js.git"
+  },
+  "keywords": [
+    "nkh",
+    "hoan",
+    "hoannk",
+    "node",
+    "nodejs"
+  ],
+  "author": "hoannk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoannk310/node_js/issues"
+  },
+  "homepage": "https://github.com/hoannk310/node_js#readme"
+}
